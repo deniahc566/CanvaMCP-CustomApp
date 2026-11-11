@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+
+# Local run output, not source
+.playwright-mcp/
+bridge-spike-result.json
